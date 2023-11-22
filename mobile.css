@@ -1,0 +1,287 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  #container {
+    display: none;
+  }
+
+  #section-container2 {
+    display: none;
+  }
+
+  #nav-container {
+    display: none;
+  }
+
+  #section-container {
+    display: none;
+  }
+
+  #text3 {
+    display: none;
+  }
+
+  #container3 {
+    display: none;
+  }
+
+  #main-container-mb {
+    display: block;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .eat-class {
+    color: green;
+    font-weight: 400;
+  }
+
+  .sup-mb {
+    display: flex;
+    font-size: 11.4px;
+    gap: 6px;
+  }
+
+  #header-class-mb button {
+    width: 78px;
+    height: 40px;
+    background-color: rgb(251, 251, 251);
+    border: 1px solid rgb(192, 191, 191);
+    border-radius: 3px;
+  }
+
+  #header-class-mb {
+    margin-bottom: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  #section-container-mb {
+    width: 100%;
+    height: 270px;
+    background: url(https://yuralinkev1ch.github.io/Uber-Eats-2/img/pushkin.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 122px;
+    padding-left: 80px;
+  }
+
+  .text1-mb {
+    width: 308px;
+    height: 180px;
+    background-color: red;
+    text-align: center;
+    padding-top: 15px;
+  }
+
+  .text1-mb h1 {
+    font-size: 28px;
+    font-weight: 500;
+  }
+
+  #section-container-mb2 {
+    padding-left: 17px;
+    padding-right: 4px;
+  }
+
+  .text1-mb p {
+    font-size: 15.6px;
+    color: grey;
+    margin-top: 60px;
+  }
+
+  .text1-mb button {
+    width: 98px;
+    height: 32px;
+    background-color: black;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin-top: 12px;
+  }
+
+  .h1-class {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+    font-weight: 500;
+    font-size: 30px;
+  }
+
+  .p-toch {
+    border-bottom: 1.6px solid rgb(77, 77, 77);
+    width: 60px;
+    color: white;
+    margin-left: 174.5px;
+  }
+
+  .p-class1 {
+    font-weight: 520;
+    font-size: 18px;
+  }
+
+  .p-class2 {
+    font-size: 16px;
+    color: grey;
+    margin-top: 10px;
+  }
+
+  .p-class3 {
+    font-weight: 600;
+    margin-top: 25px;
+    font-size: 18px;
+  }
+
+  .sup-text-mb {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .div-class-mb {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 85px;
+  }
+
+  .p-class4 {
+    font-weight: 520;
+    font-size: 18px;
+  }
+
+  .p-class5 {
+    font-weight: 600;
+    margin-top: 48px;
+    font-size: 18px;
+  }
+
+  .div-class-mb2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .div-class-mb3 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+  }
+
+  .div-class-mb4 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+  }
+
+  .div-class-mb5 {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+  }
+
+  #footer-class-mb {
+    width: 320;
+    height: 1040px;
+    background-color: #262626;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 60px;
+  }
+
+  .h1-class2-mb {
+    color: green;
+    font-weight: 500;
+  }
+
+  .sup-class-mb6 {
+    display: flex;
+    gap: 9px;
+    font-size: 18px;
+    margin-bottom: 4px;
+  }
+
+  #select-mb {
+    width: 175px;
+    height: 40px;
+    background-color: #3b3b3b;
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+  }
+
+  .div-class-mb10 {
+    position: absolute;
+  }
+
+  .img-class {
+    position: relative;
+    right: 152px;
+    top: 3px;
+  }
+
+  .h3-text {
+    color: green;
+    font-weight: 400;
+  }
+
+  .h3-text2 {
+    color: white;
+    font-weight: 400;
+  }
+
+  .sup-class12 {
+    display: flex;
+    gap: 3px;
+    font-size: 20px;
+    margin-top: 35px;
+  }
+
+  .img-class-mb {
+    display: flex;
+    gap: 17px;
+    margin-top: 27px;
+    margin-bottom: 57px;
+  }
+
+  .div-class-mb10 p {
+    color: rgb(222, 221, 221);
+    margin-top: 27px;
+  }
+
+  .p-toch2 {
+    color: #262626;
+    border-bottom: 1.8px solid grey;
+    width: 406px;
+    font-size: 1px;
+  }
+
+  .p-toch4 {
+    border-bottom: 1.8px solid grey;
+    width: 404px;
+    font-size: 1px;
+    margin-top: 50px;
+  }
+
+  .image-class-mb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 25px;
+  }
+
+  .p-class-mb5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    margin-top: 37px;
+  }
+
+  .btn-up {
+    margin-left: 268px;
+    margin-top: -39px;
+  }
+}

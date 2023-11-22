@@ -1,0 +1,25 @@
+@media (min-width: 1px) and (max-width: 320px) {
+  #container {
+    display: none;
+  }
+
+  #section-container2 {
+    display: none;
+  }
+
+  #nav-container {
+    display: none;
+  }
+
+  #section-container {
+    display: none;
+  }
+
+  #text3 {
+    display: none;
+  }
+
+  #container3 {
+    display: none;
+  }
+}
